@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# TensorBoard logs
+Logs/
+Experiment/
+
+# Model weights and outputs
+weights/*.pth
+Comparison_Fig.png
+
+# Dataset (partial data is included, but full dataset should be external)
+dataset/train/inputs/*.npy
+dataset/train/labels/*.npy
+dataset/test/inputs/*.npy
+dataset/test/labels/*.npy
+
+# Editor backups
+*~
+
+# Local configuration
+*.log
+*.bak
