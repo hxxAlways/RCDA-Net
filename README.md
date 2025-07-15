@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 This repository includes a partial dataset in the `dataset/` directory for testing purposes. The full dataset (2015–2019 wildfire data from Canada and Alaska) is not included due to size constraints. To train the model:
 
-- Download the complete dataset from [Baidu Cloud](https://pan.baidu.com/s/1kyu-zRuw1Trk14cxBqe_jw) or [Google Drive].
+- Download the complete dataset from [Baidu Cloud](https://pan.baidu.com/s/1kyu-zRuw1Trk14cxBqe_jw) or [Google Drive](https://drive.google.com/file/d/17aAw3nSIsRm1VXRFQPPUqnwO-qStkiW2/view?usp=sharing).(The extraction code is 6666)
 - Place the `inputs` and `labels` folders in the `train` and `test` subdirectories.
 
 ## Usage
